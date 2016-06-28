@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
   font-size: 20px;
   color: #404040;
 }
@@ -26,7 +26,7 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #404040;
+  color: #0085a1;
 }
 a:hover,
 a:focus {
